@@ -36,7 +36,7 @@ class PhpMatcherDumperTest extends TestCase
         parent::setUp();
 
         $this->matcherClass = uniqid('ProjectUrlMatcher');
-        $this->dumpPath = sys_get_temp_dir().DIRECTORY_SEPARATOR.'php_matcher.'.$this->matcherClass.'.php';
+        $this->dumpPath = sys_get_temp_dir().\DIRECTORY_SEPARATOR.'php_matcher.'.$this->matcherClass.'.php';
     }
 
     protected function tearDown()
@@ -75,7 +75,7 @@ class PhpMatcherDumperTest extends TestCase
                         ->setMethods(array('redirect'))
                         ->setConstructorArgs(array(new RequestContext()))
                         ->getMock();
-        
+
         $matcher->expects($this->once())->method('redirect')->with('/foo%3Abar/', 'foo')->willReturn(array());
 
         $matcher->match('/foo%3Abar');
@@ -354,7 +354,7 @@ class PhpMatcherDumperTest extends TestCase
             array('GET', 'HEAD')
         ));
         $headMatchCasesCollection->add('post_and_head', new Route(
-            '/post_and_get',
+            '/post_and_head',
             array(),
             array(),
             array(),
