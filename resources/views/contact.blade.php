@@ -94,11 +94,10 @@
                     <h2 class="subtitle  wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">Find Us</h2>
                     <p class="subtitle-des wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".5s">
                         Si aute quis eu proident o cupidatat ne anim nescius, et est praesentibus, o quorum vidisse expetendis, nostrud eram quibusdam ad nam nostrud ubi.
-                        
                     </p>
                     <div class="map">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3763.4963257000504!2d-99.15984328591738!3d19.390949847037795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff08b34017c3%3A0xa3dd1e0dc16700dc!2sCalle+Luz+Savi%C3%B1%C3%B3n+814%2C+Narvarte+Poniente%2C+03020+Ciudad+de+M%C3%A9xico%2C+CDMX!5e0!3m2!1ses!2smx!4v1514830789878" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
-                        
+					
+						<iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3763.9967131133635!2d-99.26893253473594!3d19.369294997720143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sprolongacion+paseo+de+la+reforma+625+torre+lexus!5e0!3m2!1ses!2smx!4v1535036423163" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                     </div>
                 </div>
             </div>
