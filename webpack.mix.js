@@ -34,5 +34,9 @@ mix.scripts([
 		'resources/assets/css/owl.theme.css', 
 		'resources/assets/css/jquery.fancybox.css', 
 		'resources/assets/css/style.css', 
-		], 'public/css/app.css');
+		], 'public/css/app.css').browserSync({
+			open: 'false',
+			proxy: 'http://portafolioKris.test',
+			browser: 'Google chrome',
+		});
 
