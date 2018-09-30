@@ -13,7 +13,7 @@ Slider Section Start
                 <!-- Slider -->
                 <section class="cd-intro">
                     <h1 class="wow fadeInUp animated cd-headline slide" data-wow-delay=".4s" >
-                    <span>HOLA, MI NOMBRE ES CRISTIAN & Y SOY</span><br>
+                    <span>HOLA, MI NOMBRE ES CRISTIAN SOY</span><br>
                     <span class="cd-words-wrapper">
                         <b class="is-visible">DESARROLLADOR</b>
                         {{-- <b>JAVA</b> --}}
@@ -48,7 +48,9 @@ About Section Start
                     <p>
                         Hola, soy programador profesional en lenguaje php ubicado en la ciudad de mexico.Tengo conocimientos solidos en desarrollo de software en lenguaje java y php e trabajado con tecnologias y frameworks de última generación.
                         En los últimos 2 años he trabajado en desarrollado de aplicaciones profesionales.
+                        
                     </p>
+                    <p>Actualmente me encuentro desarrollando aplicaciones web con la ayuda de tecnologias como Laravel y librerias reactivas tales como Vue JS</p>
                     <p>
                         Amante de la tecnologia. Gusto por los retos y destrezas en el área de sistemas e informatica.
                     </p>
@@ -72,9 +74,9 @@ Portfolio Section Start
     <div class="container">
         <div class="section-heading">
             <h1 class="title wow fadeInDown" data-wow-delay=".3s">Ultimos Trabajos</h1>
-            <p class="wow fadeInDown" data-wow-delay=".5s">
+            <!--<p class="wow fadeInDown" data-wow-delay=".5s">
                 Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere <br> tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus.
-            </p>
+            </p> -->
         </div>
         <div class="row">
             <div class="col-sm-4 col-xs-12">
@@ -90,12 +92,12 @@ Portfolio Section Start
                     </div>
                     <figcaption>
                     <h4>
-                    <a href="#">
-                        Dew Drop
+                    <a href="https://ofijob.com/" target="_blank">
+                        OfiJob
                     </a>
                     </h4>
                     <p>
-                        Redesigne UI Concept
+                        Bolsa de Trabajo Desarollado en php
                     </p>
                     </figcaption>
                 </figure>
@@ -223,7 +225,7 @@ Portfolio Section Start
 ==================================================
 Portfolio Section Start
 ================================================== -->
-<section id="feature">
+<!-- <section id="feature">
     <div class="container">
         <div class="section-heading">
             <h1 class="title wow fadeInDown" data-wow-delay=".3s">Offer From Me</h1>
@@ -312,6 +314,6 @@ Portfolio Section Start
             </div>
         </div>
     </div>
-</section> <!-- /#feature -->
+</section> --> <!-- /#feature -->
 
 @stop

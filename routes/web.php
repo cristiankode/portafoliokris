@@ -27,6 +27,10 @@ Route::get('contactos', function () {
     return view('contact');
 })->name('contactos');
 
+Route::get('curriculum', function(){
+	return view('curriculum/curriculum');
+})->name('curriculum');
+
 Route::post('message', function(){
 
 	//Enviar correo al dueño de la pagina
