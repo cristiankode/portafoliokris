@@ -20,13 +20,13 @@
             <div class="col-md-6">
                 <div class="expertise-item">
                     <h3>Manejo Profesional</h3>
-                    <p>Manejo profesional de lenguajes de programación tales como PHP y Java.</p>
+                    <p>Desarrollo profesional en lenguajes de programaci&oacute;n tales como PHP y Java.</p>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="expertise-item">
                     <h3>Levantamiento de Requirimientos</h3>
-                    <p>Gran Experiencia en levantamiento de requerimientos e inicio desde 0 desarrollo de sistemas de gran escala.</p>
+                    <p>Experiencia en levantamiento de requerimientos e inicio de proyectos desde 0; amplia experiencia en desarrollo de sistemas de gran escala.</p>
                 </div>
             </div>
         </div>
@@ -34,13 +34,13 @@
             <div class="col-md-6">
                 <div class="expertise-item">
                     <h3>Consumo de APIs</h3>
-                    <p>Amplia experiencia en Implementaci&oacute;n, manejo y consumo de apis Rest.</p>
+                    <p>Implementaci&oacute;n, manejo y consumo de apis Rest.</p>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="expertise-item">
                     <h3>Lider De Proyectos</h3>
-                    <p>Amplia experiencia en Manejo de proyectos utilizando metodologias agiles (SCRUM MASTER).</p>
+                    <p>Manejo de proyectos utilizando metodologias agiles (SCRUM MASTER).</p>
                 </div>
             </div>
         </div>
