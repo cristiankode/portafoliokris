@@ -27,7 +27,7 @@ Route::get('contactos', function () {
     return view('contact');
 })->name('contactos');
 
-Route::get('curriculum', function(){
+Route::get('cv', function(){
 	return view('curriculum/curriculum');
 })->name('curriculum');
 
