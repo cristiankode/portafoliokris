@@ -11,9 +11,9 @@
                 <div class="content-item">
                     <small>1999 - 2002</small>
                     <h3>PROFESIONAL TECNICO EN INFORMATICA.</h3>
-                    <h4>Colegio Nacional de Educación Profesional Técnica.</h4>
+                    <h4>Colegio Nacional de Educaci&oacute;n Profesional T&eacute;cnica.</h4>
 
-                    <p>United Kingdom, London</p>
+                    <p>Ciudad de Mexico, Mexico</p>
                 </div>
                 <!-- .experience-item -->
                 <!-- <div class="content-item">
