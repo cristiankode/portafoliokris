@@ -23,7 +23,7 @@ Slider Section Start
                     </section> <!-- cd-intro -->
                     <!-- /.slider -->
                     <h2 class="wow fadeInUp animated" data-wow-delay=".6s" >
-                        Con 3 años de experiencia, He ocupado muchos roles incluyendo lider de proyecto y<br> desarrolador de software. Este sitio muestra
+                        Con 4 años de experiencia, He ocupado muchos roles incluyendo lider de proyecto y<br> desarrolador de software. Este sitio muestra
                         algo de mi trabajo.
                     </h2>
                     <a class="btn-lines dark light wow fadeInUp animated smooth-scroll btn btn-default btn-green" data-wow-delay=".9s" href="#works" data-section="#works">Ver Trabajos</a>
