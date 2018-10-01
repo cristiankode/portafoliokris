@@ -35,7 +35,7 @@
                                 <a href="{{ route('home') }}" >Inicio</a>
                             </li>
                             {{-- <li><a href="{{ route('nosotros') }}">Nosotros</a></li>  --}}
-                            <li><a href="{{ route('servicios') }}">Servicios</a></li>
+                            {{-- <li><a href="{{ route('servicios') }}">Servicios</a></li> --}}
                             {{-- <li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <span class="caret"></span></a>
                                 <div class="dropdown-menu">
