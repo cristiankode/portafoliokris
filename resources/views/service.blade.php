@@ -11,7 +11,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="block">
-                            <h2>Service</h2>
+                            <h2>Servicios</h2>
                             <ol class="breadcrumb">
                                 <li>
                                     <a href="index.html">
@@ -19,7 +19,7 @@
                                         Home
                                     </a>
                                 </li>
-                                <li class="active">Service</li>
+                                <li class="active">Servicios</li>
                             </ol>
                         </div>
                     </div>

@@ -15,17 +15,21 @@ Route::get('/', function () {
     return view('home');
 })->name('home');
 
-Route::get('nosotros', function () {
+Route::get('ours', function () {
     return view('about');
 })->name('nosotros');
 
-Route::get('servicios', function () {
+Route::get('service', function () {
     return view('service');
 })->name('servicios');
 
-Route::get('contactos', function () {
+Route::get('contact', function () {
     return view('contact');
 })->name('contactos');
+
+Route::get('cv', function(){
+	return view('curriculum/curriculum');
+})->name('curriculum');
 
 Route::post('message', function(){
 

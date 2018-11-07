@@ -24,15 +24,19 @@ mix.scripts([
 	'resources/assets/js/slider.js', 
 	'resources/assets/js/jquery.fancybox.js', 
 	'resources/assets/js/main.js',
+	'resources/assets/js/theia-sticky-sidebar.js',
 	],  'public/js/app.js')
+mix.js('resources/assets/js/scripts.js','public/js')
 	.styles([
+		'resources/assets/css/font-awesome.min.css',
 		'resources/assets/css/bootstrap.css',
 		'resources/assets/css/ionicons.min.css', 
 		'resources/assets/css/animate.css', 
 		'resources/assets/css/slider.css', 
 		'resources/assets/css/owl.carousel.css', 
 		'resources/assets/css/owl.theme.css', 
-		'resources/assets/css/jquery.fancybox.css', 
+		'resources/assets/css/jquery.fancybox.css',
+		'resources/assets/css/style_curriculum.css',
 		'resources/assets/css/style.css', 
 		], 'public/css/app.css').browserSync({
 			open: 'false',
