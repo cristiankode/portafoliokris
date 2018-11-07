@@ -78,11 +78,11 @@ Header Section Start
         </div>
         <div class="content wow fadeInDown">
             <h1>Cristian Hurtado</h1>
-            <span class="lead">Programador Web</span>
+            <span class="lead">Programador Web PHP</span>
 
             <div class="about-text">
-                <p>Credibly embrace visionary internal or "organic" sources and business benefits. Collaboratively integrate efficient portals rather than customized customer service. Assertively deliver frictionless services via leveraged interfaces. Conveniently evisculate accurate sources and process-centric expertise.</p>
-                <p>Energistically fabricate customized imperatives through cooperative catalysts for change.</p>
+                <!-- <p>Credibly embrace visionary internal or "organic" sources and business benefits. Collaboratively integrate efficient portals rather than customized customer service. Assertively deliver frictionless services via leveraged interfaces. Conveniently evisculate accurate sources and process-centric expertise.</p>
+                <p>Energistically fabricate customized imperatives through cooperative catalysts for change.</p> -->
             </div>
             <!--<ul class="social-icon">
                 <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
