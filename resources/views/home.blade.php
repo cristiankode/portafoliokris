@@ -15,7 +15,7 @@ Slider Section Start
                     <h1 class="wow fadeInUp animated cd-headline slide" data-wow-delay=".4s" >
                     <span>HOLA, MI NOMBRE ES CRISTIAN SOY</span><br>
                     <span class="cd-words-wrapper">
-                        <b class="is-visible">DESARROLLADOR laravel</b>
+                        <b class="is-visible">DESARROLLADOR</b>
                         {{-- <b>JAVA</b> --}}
                         <b>PHP</b>
                     </span>
